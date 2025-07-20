@@ -1,23 +1,20 @@
-<<<<<<< HEAD
-# Medilens
-=======
 
 # 🧠 MediLens – AI-Powered First-Aid and Medical Triage App
 
 MediLens is a medical AI web application that allows users to upload injury/condition images or type symptoms. It uses Gemini API for intelligent condition detection, displays first aid steps, and shows nearby hospitals on an interactive Leaflet map, including distance and address information as well as a Google map link.
 
----
+-----------------------------------------------------------------
 
 ## 🏗️ Tech Stack
 
-| Layer      | Tech                               |
-|------------|------------------------------------|
-| Frontend   | React, TailwindCSS, Leaflet.js, Geopy     |
-| Backend    | Flask, Gemini API   |
-| Map API    | OpenStreetMap + Leaflet.js         |
-| Hosting    | Localhost      |
+| Layer      | Tech                                 |
+|------------|--------------------------------------|
+| Frontend   | React, TailwindCSS, Leaflet.js, Geopy|
+| Backend    | Flask, Gemini API                    |
+| Map API    | OpenStreetMap + Leaflet.js           |
+| Hosting    | Localhost                            |
 
----
+-----------------------------------------------------------------
 
 ## 📁 Prerequisites 
 
@@ -25,9 +22,11 @@ Note : This works for mac have not tried for windows
 Be sure to set up the .env file in the backend and also in frontend if not provided already. 
 
 Frontend (.env) : 
+    
     REACT_APP_API_BASE_URL=http://127.0.0.1:5000
 
 Backend (.env) :
+   
     GEMINI_API_KEY="YOUR_API_KEY_HERE"
 -----------------------------------------------------------------
 
@@ -50,21 +49,22 @@ For Backend :
 
 Navigate to backend : 
 
-cd backend
+    cd backend
 
-cd venv
+    cd venv
 
 Install dependencies (might not work for windows, you can try to install the requirements.txt) :
 
-pip install flask (if not already)
-pip install python-dotenv
-pip install geopy
+    pip install flask (if not already)
+    pip install python-dotenv
+    pip install geopy
 
-    if the above doesn't work
+if the above doesn't work
 
-pip install -r requirements.txt (installs flask, python-dotenv, pillow)
+    pip install -r requirements.txt (installs flask, python-dotenv, pillow)
 
 Exit backend :
+    
     cd .. 
 
 Start virtual Environment :
@@ -94,8 +94,3 @@ Stay healthy, stay curious, and keep building amazing things! 💡✨
 Hackthe6ix 2025
 
 Happy Hacking! 👩‍💻👨‍💻
-
-
-pip install Flask Flask-CORS python-dotenv
->>>>>>> bab4e2a (Initial commit)
-

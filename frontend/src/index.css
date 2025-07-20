@@ -18,6 +18,87 @@ code {
 
 
 
+.webcam-section label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.image-input-section,
+.webcam-section {
+  margin-bottom: 1.5rem;
+}
+
+.upload-area {
+  border: 2px dashed #888;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.upload-area:hover {
+  background-color: #f9f9f9;
+}
+
+.upload-icon {
+  width: 36px;
+  height: 36px;
+  color: #888;
+  margin-bottom: 0.25rem;
+}
+
+.upload-text-main {
+  font-weight: 600;
+  color: #555;
+}
+
+.upload-text-sub {
+  font-size: 0.9rem;
+  color: #999;
+}
+
+.file-input-hidden {
+  display: none;
+}
+
+.image-preview-container {
+  margin-top: 1rem;
+  position: relative;
+  max-width: 320px;
+}
+
+.image-preview-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.uploaded-image {
+  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+}
+
+.remove-image-button {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  background: rgba(0,0,0,0.5);
+  border: none;
+  border-radius: 50%;
+  padding: 4px;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.remove-icon {
+  width: 16px;
+  height: 16px;
+}
 
 
 
