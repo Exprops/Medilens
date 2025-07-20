@@ -1,7 +1,7 @@
 
 # 🧠 MediLens – AI-Powered First-Aid and Medical Triage App
 
-MediLens is a medical AI web application that allows users to upload injury/condition images or type symptoms. It uses Gemini API for intelligent condition detection, displays first aid steps, and shows nearby hospitals on an interactive Leaflet map, including distance and address information as well as a Google map link.
+MediLens is a medical AI web application that allows users to upload injury/medical condition experiencing images or type symptoms. It uses Gemini API for intelligent condition detection, displays first aid steps, and shows nearby hospitals on an interactive Leaflet map, including distance and address information as well as a Google map link.
 
 -----------------------------------------------------------------
 
