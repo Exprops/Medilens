@@ -9,7 +9,7 @@ MediLens is a medical AI web application that allows users to upload injury/medi
 
 | Layer      | Tech                                 |
 |------------|--------------------------------------|
-| Frontend   | React, TailwindCSS, Leaflet.js, Geopy|
+| Frontend   | React, CSS, Leaflet.js, Geopy        |
 | Backend    | Flask, Gemini API                    |
 | Map API    | OpenStreetMap + Leaflet.js           |
 | Hosting    | Localhost                            |
