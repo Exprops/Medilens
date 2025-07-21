@@ -91,6 +91,4 @@ If you enjoyed exploring the code or want to contribute, feel free to star ⭐ t
 
 Stay healthy, stay curious, and keep building amazing things! 💡✨
 
-Hackthe6ix 2025
-
 Happy Hacking! 👩‍💻👨‍💻
