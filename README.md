@@ -91,6 +91,6 @@ If you enjoyed exploring the code or want to contribute, feel free to star ⭐ t
 
 Stay healthy, stay curious, and keep building amazing things! 💡✨
 
-Team project at Hackthe6ix
+🚀 Developed from idea to demo at Hack the 6ix 2025, showcasing innovation under pressure, real-world impact, and seamless AI integration.
 
 Happy Hacking! 👩‍💻👨‍💻
