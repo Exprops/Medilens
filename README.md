@@ -91,4 +91,6 @@ If you enjoyed exploring the code or want to contribute, feel free to star ⭐ t
 
 Stay healthy, stay curious, and keep building amazing things! 💡✨
 
+Team project at Hackthe6ix
+
 Happy Hacking! 👩‍💻👨‍💻
