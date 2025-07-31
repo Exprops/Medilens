@@ -3,9 +3,6 @@
 
 MediLens is a medical AI web application that allows users to upload injury/medical condition experiencing images or type symptoms. It uses Gemini API for intelligent condition detection, displays first aid steps, and shows nearby hospitals on an interactive Leaflet map, including distance and address information as well as a Google map link.
 
-[![MediLens on Devpost](https://your-image-url.com/banner.png)](https://devpost.com/software/medilens-navigator)
-
-
 -----------------------------------------------------------------
 
 ## 🏗️ Tech Stack
@@ -94,5 +91,7 @@ If you enjoyed exploring the code or want to contribute, feel free to star ⭐ t
 Stay healthy, stay curious, and keep building amazing things! 💡✨
 
 🚀 Developed from idea to demo at Hack the 6ix 2025, showcasing innovation under pressure, real-world impact, and seamless AI integration.
+[![View on Devpost](https://img.shields.io/badge/View%20on-Devpost-blue.svg)](https://devpost.com/software/medilens-navigator)
+
 
 Happy Hacking! 👩‍💻👨‍💻
